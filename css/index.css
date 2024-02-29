@@ -59,8 +59,8 @@ header {
   position: absolute;
   top: 0;
   bottom: 0;
-  right: 76%;
-  width: 240px;
+  right: 64%;
+  width: 550px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -109,8 +109,8 @@ header {
 #content {
   position: absolute;
   top: 13%;
-  left: 28%;
-  width: 50%;
+  left: 40%;
+  width: 60%;
 }
 
 section {
